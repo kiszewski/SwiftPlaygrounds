@@ -1,0 +1,5 @@
+**/playground.xcworkspace
+*.xcplayground
+*.xctimeline
+
+*.DS_Store
